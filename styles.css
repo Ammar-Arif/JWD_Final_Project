@@ -1,0 +1,18 @@
+ .container h1 {
+    color: black;
+    font-family: 'Gochi Hand', cursive;
+    font-size: 110px;
+
+ }
+ h2 {
+    color: black;
+    font-family: 'Gochi Hand', cursive;
+    font-size: 40px;
+
+
+}
+body{
+    background-color: #d1be9c;
+    backgrund-image: url("http://backgroundlabs.com/wp-content/uploads/2013/02/paw-print-seamless-pattern03.png")
+}
+ 
